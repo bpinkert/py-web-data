@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"face",
+				"faces_detected"
+			],
+			[
+				"config",
+				"configScript"
+			],
+			[
+				"sel",
+				"__self__	magic"
+			],
+			[
+				"max_",
+				"max_digits"
+			],
+			[
+				"django",
+				"django_markdown"
+			],
+			[
+				"List",
+				"ListAuthView"
+			],
+			[
+				"Auth",
+				"AuthOwnerMixin"
+			],
+			[
+				"font-",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/bpubi/Devel/mitmproxy/examples/proxapp.py",
+			"settings":
+			{
+				"buffer_size": 847,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/bpubi/Devel/mitmproxy/pathod/pathod.py",
+			"settings":
+			{
+				"buffer_size": 16060,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: genericipaddressfield"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bpubi/Devel/mitmproxy",
+		"/home/bpubi/Devel/mitmproxy/.sources",
+		"/home/bpubi/Devel/mitmproxy/examples",
+		"/home/bpubi/Devel/mitmproxy/examples/pathod",
+		"/home/bpubi/Devel/mitmproxy/mitmproxy/console",
+		"/home/bpubi/Devel/mitmproxy/mitmproxy/models",
+		"/home/bpubi/Devel/mitmproxy/mitmproxy/platform",
+		"/home/bpubi/Devel/mitmproxy/mitmproxy/script",
+		"/home/bpubi/Devel/mitmproxy/pathod",
+		"/home/bpubi/Devel/mitmproxy/web/src"
+	],
+	"file_history":
+	[
+		"/home/bpubi/Devel/python-network-data/urllinks.py",
+		"/home/bpubi/Devel/python-network-data/sockets.py",
+		"/home/bpubi/Devel/bhp/new/nc_redirect.sh",
+		"/home/bpubi/Devel/python-network-data/urllib2.py",
+		"/home/bpubi/Devel/bhp/tcpProxy.py",
+		"/home/bpubi/Devel/bhp/cred_server.py",
+		"/home/bpubi/Devel/bhp/mitb.py",
+		"/home/bpubi/Devel/python-network-data/class-code/xml1.py",
+		"/home/bpubi/Devel/python-network-data/sums.py",
+		"/home/bpubi/Vagrant/wp-lemp-custom/Open-Web-Analytics-1.5.7/modules/base/templates/js_owa_params.tpl",
+		"/home/bpubi/Vagrant/wp-lemp-custom/Open-Web-Analytics-1.5.7/modules/base/templates/footer.php",
+		"/home/bpubi/Vagrant/wp-lemp-custom/Open-Web-Analytics-1.5.7/modules/base/templates/pixel.tpl",
+		"/home/bpubi/Devel/python-network-data/xmlparse.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelproject/pixelproject/urls.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelproject/pixelgenerator/views.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelproject/pixelgenerator/models.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelproject/pixelgenerator/admin.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelproject/pixelproject/settings.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelview/urls.py",
+		"/home/bpubi/Devel/django-pixel-tracker/pixelview/views.py",
+		"/home/bpubi/Devel/savsite/savsite/urls.py",
+		"/home/bpubi/Vagrant/LDAP/install_ldap.sh",
+		"/home/bpubi/Vagrant/LDAP/reconfig_slapd.sh",
+		"/home/bpubi/Vagrant/LDAP/sedtst.sh",
+		"/home/bpubi/Devel/bhp/bhpnet.py",
+		"/home/bpubi/Devel/django-invoicing/savsite/invoicing/models.py",
+		"/home/bpubi/Devel/django-invoicing/savsite/invoicing/managers.py",
+		"/home/bpubi/Devel/django-invoicing/savsite/invoicing/fields.py",
+		"/home/bpubi/Devel/django-invoicing/savsite/savsite/settings.py",
+		"/home/bpubi/Devel/django-invoicing/savsite/invoicing/migrations/0001_initial.py",
+		"/home/bpubi/Devel/bhp/bh_sshcmd.py",
+		"/home/bpubi/Devel/django-invoicing/savsite/invoicing/templates/invoicing/formatters/html.html",
+		"/home/bpubi/Devel/ssh-php/terminal.php",
+		"/home/bpubi/Devel/django-invoicing/savsite/invoicing/templates/invoicing/formatters/bootstrap.html",
+		"/home/bpubi/Devel/savpay/savshop/cart/settings.py",
+		"/home/bpubi/Devel/savpay/savsite/savsite/settings.py",
+		"/home/bpubi/Devel/savpay/savsite/savpay/models.py",
+		"/home/bpubi/Devel/savpay/savshop/savpay/models.py",
+		"/home/bpubi/Devel/savpay/savpay/admin.py",
+		"/home/bpubi/Devel/savpay/savpay/views.py",
+		"/home/bpubi/Devel/savpay/savpay/urls.py",
+		"/home/bpubi/Devel/savpay/savpay/tests.py",
+		"/home/bpubi/Devel/savpay/savpay/forms.py",
+		"/home/bpubi/Devel/savpay/savpay/models.py",
+		"/home/bpubi/Devel/amy-tweepy/auth.py",
+		"/home/bpubi/Devel/amy-tweepy/auth2.py",
+		"/home/bpubi/Devel/amy-tweepy/amy_twitter/amy_twitter/templates/example.html",
+		"/home/bpubi/Devel/amy-tweepy/pickleresult.py",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/settings.py",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/bugform/views.py",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/templates/flatpages/form_submitted.html",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/templates/teams/team_detail.html",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/views.py",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/templates/teams/team_list.html",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/templates/_footer.html",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/ppteams2/teams/tests/__init__.py",
+		"/home/bpubi/Vagrant/LEMP/nanobeta/social_auth/models.py",
+		"/home/bpubi/Devel/django-tracking/savshop/cart/settings.py",
+		"/home/bpubi/Devel/pinax-stripe/savshop/cart/hooks.py",
+		"/home/bpubi/Devel/pinax-stripe/savshop/cart/urls.py",
+		"/home/bpubi/Devel/pinax-stripe/savshop/cart/settings.py",
+		"/home/bpubi/Devel/savvymerchant/billing/__init__.py",
+		"/home/bpubi/Devel/savvymerchant/billing/gateway.py",
+		"/home/bpubi/Devel/django-payments/payapp/views.py",
+		"/home/bpubi/Devel/django-payments/payapp/models.py",
+		"/home/bpubi/Devel/django-payments/cart/urls.py",
+		"/home/bpubi/Devel/codewars/multiply.py",
+		"/home/bpubi/Devel/gmail-track/smpt-test.py",
+		"/home/bpubi/Devel/app-indicator/digitalocean-indicator/digitalocean_indicator/DoIndicator.py",
+		"/home/bpubi/Devel/app-indicator/gfi-indicator.py",
+		"/home/bpubi/Devel/app-indicator/example2.py",
+		"/home/bpubi/Devel/pinax-stripe/savshop/cart/local_settings.py",
+		"/home/bpubi/Devel/cart-stripe/savshop/cart/local_settings.py",
+		"/home/bpubi/Devel/cart-stripe/savshop/cart/settings.py",
+		"/home/bpubi/Devel/iptrack/track/track/settings.py",
+		"/home/bpubi/Devel/iptrack/track/iptrack/models.py",
+		"/home/bpubi/Devel/iptrack/track/iptrack/widget.html",
+		"/home/bpubi/Devel/iptrack/track/iptrack/ipget.py",
+		"/home/bpubi/Devel/iptrack/track/iptrack/admin.py",
+		"/home/bpubi/Devel/savtwitter/auth.py",
+		"/home/bpubi/Devel/savtwitter/searchhacks.py",
+		"/home/bpubi/Devel/savtwitter/hacks.json",
+		"/home/bpubi/Devel/savtwitter/hacks.txt",
+		"/home/bpubi/Devel/tweepy/getwss-status.py",
+		"/home/bpubi/Devel/tweepy/auth.py",
+		"/home/bpubi/Devel/tweepy/rt.py",
+		"/home/bpubi/Devel/tweepy/sslpool.py",
+		"/home/bpubi/Devel/gmail-track/boomerang/bootstrap.js",
+		"/home/bpubi/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/bpubi/Devel/gmail-track/boomerang/data/b4g_bookmarklet.js",
+		"/home/bpubi/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/1.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/track.html",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/2.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/3.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/abc-static.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/9.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/4.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/5.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/7.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/8.js",
+		"/home/bpubi/Devel/gmail-track/boomerang-iframe/6.js",
+		"/home/bpubi/Devel/gmail-track/xulschoolhello1/content/browserOverlay.xul",
+		"/home/bpubi/Devel/gmail-track/xulschoolhello1/locale/en-US/browserOverlay.dtd",
+		"/home/bpubi/Devel/gmail-track/xulschoolhello1/locale/en-US/browserOverlay.properties",
+		"/home/bpubi/Devel/realboxdjango/realbox/realbox/settings.py",
+		"/home/bpubi/Devel/realboxdjango/realbox/personalitypoll/templates/polls/base.html",
+		"/home/bpubi/Devel/realboxdjango/realbox/personalitypoll/templates/polls/results.html",
+		"/home/bpubi/Devel/realboxdjango/realbox/personalitypoll/templates/polls/navbar.html",
+		"/home/bpubi/Devel/realboxdjango/realbox/personalitypoll/templates/polls/footer.html",
+		"/home/bpubi/Devel/realboxdjango/realbox/personalitypoll/templates/polls/polls.html",
+		"/home/bpubi/Devel/realboxdjango/realbox/static/css/style.css",
+		"/home/bpubi/Devel/realboxdjango/realbox/personalitypoll/urls.py",
+		"/home/bpubi/Devel/nanobeta/ppteams2/urls.py",
+		"/home/bpubi/Devel/nanobeta/ppteams2/templates/homepage.html",
+		"/home/bpubi/Devel/nanobeta/ppteams2/atomformat.py",
+		"/home/bpubi/Devel/nanobeta/.gitignore",
+		"/home/bpubi/Devel/nanobeta/linkedauth/social.py",
+		"/home/bpubi/Devel/nanobeta/ppteams2/templates/site_base.html",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/ppteams2/templates/_account_bar.html",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/ppteams2/settings.py",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/ppteams2/templates/flatpages/default.html",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/ppteams2/templates/flatpages/contact.html",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/nanostats/views.py",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/ppteams2/templates/profiles/profile_list.html",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/ppteams2/urls.py",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/nwiki/models/pluginbase.py",
+		"/C/Users/Ben Pinkert/Documents/development/nanomembers/nwiki/models/article.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"VAT",
+			"InvoiceFormatter",
+			"id",
+			"wiki"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/bpubi/Devel/mitmproxy/examples/proxapp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/bpubi/Devel/mitmproxy/pathod/pathod.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mitmproxy.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
