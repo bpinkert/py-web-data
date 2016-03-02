@@ -1,6 +1,8 @@
 import re
 import np
-text = open('regex_sum_219023', 'r')
+import urllib 
+
+text = open('jsonvals2.txt', 'r')
 final = []
 for line in text:
     line = line.strip()
